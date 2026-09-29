@@ -99,7 +99,7 @@ page = st.sidebar.radio(
 )
 
 st.sidebar.markdown("<br><br>", unsafe_allow_html=True)
-st.sidebar.markdown('<div class="sidebar-footer">Abhishek</div>', unsafe_allow_html=True)
+st.sidebar.markdown('<div class="sidebar-footer">Kunal</div>', unsafe_allow_html=True)
 
 # Plotly Base Chart Styling
 chart_layout = dict(
