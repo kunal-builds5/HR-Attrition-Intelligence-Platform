@@ -31,10 +31,4 @@ Access the deployed Streamlit dashboard here:
 | **Visualizations** | Plotly Express |
 
 ---
-
-## 🚦 Local Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/Atech31/HR-Attrition-Intelligence-Platform.git](https://github.com/Atech31/HR-Attrition-Intelligence-Platform.git)
-   cd HR-Attrition-Intelligence-Platform
+ 
